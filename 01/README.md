@@ -18,14 +18,6 @@ Claude (Anthropic), model Claude Sonnet 5.5.
 
 > Tolong buatkan rangkuman materi dari PDF "01 - Pengenalan" ini. Buat yang mudah dipahami dan gaya penulisannya berbeda dari contoh rangkuman yang kuberikan. Bagian modifikasinya boleh kamu tentukan sendiri. Format markdown, mengikuti format penulisan penggunaan AI dari dosen: Materi Minggu 1, Prompt, dan Bagian yang disesuaikan dari keluaran prompt.
 
-**Prompt 2 (perbaikan format)**
-
-> Ulangi rangkumannya dan jangan gunakan tabel, gunakan tulisan biasa saja.
-
-**Prompt 3 (perbaikan isi)**
-
-> Revisi lagi supaya isinya nyambung dan sesuai dengan modul/slide dosen. Boleh panjang dan tidak perlu terlalu simple. Hapus analogi yang tidak relevan, dan perbaiki bagian prompt serta bagian yang disesuaikan sesuai format dari dosen.
-
 ## Bagian yang Disesuaikan dari Keluaran Prompt
 
 Bagian bertanda **[MODIFIKASI]** adalah pengembangan di luar poin-poin slide dosen. Bagian tersebut ada pada:

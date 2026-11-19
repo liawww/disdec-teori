@@ -4,7 +4,14 @@
 **NIM:** 255410019
 
 ---
-prommpt:  buatkan rangkuman, carilah yang penting2 nya aja.. dari modul semua ini, dm format markdown untuk README.md. 
+## AI yang Digunakan
+
+Claude (Anthropic), model Claude Sonnet 5.5.
+
+## Prompt
+buatkan rangkuman,dari modul ini, carilah yang penting2 nya aja.. dari modul semua ini, dm format markdown untuk README.md. 
+
+---
 ## Konsep Dasar
 
 - **Sistem terdistribusi** adalah kumpulan node independen yang bekerja bersama sebagai satu kesatuan logis. Setiap node menjalankan proses, dan antar proses harus saling berkomunikasi.

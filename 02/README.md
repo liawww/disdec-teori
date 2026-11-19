@@ -17,32 +17,6 @@ Setelah mempelajari modul ini, mahasiswa mampu:
 3. Menganalisis isu **sinkronisasi, reliabilitas, dan keamanan** pada sistem terdistribusi.
 4. Mengaitkan konsep ke contoh nyata seperti **microservices, cloud, dan distributed messaging**.
 
-## Daftar Isi
-
-1. [Apa Itu Proses?](#1-apa-itu-proses)
-2. [Manajemen Proses](#2-manajemen-proses)
-3. [Sistem Terdistribusi dan Komunikasi](#3-sistem-terdistribusi-dan-komunikasi)
-4. [Model Komunikasi Pesan](#4-model-komunikasi-pesan)
-5. [Proses pada Sistem Terdistribusi](#5-proses-pada-sistem-terdistribusi)
-6. [IPC (Inter-Process Communication)](#6-ipc-inter-process-communication)
-7. [Message Passing](#7-message-passing)
-8. [RPC (Remote Procedure Call)](#8-rpc-remote-procedure-call)
-9. [MOM (Message-Oriented Middleware)](#9-mom-message-oriented-middleware)
-10. [Studi Kasus: Microservices](#10-studi-kasus-microservices)
-11. [Komunikasi Sinkron dan Asinkron](#11-komunikasi-sinkron-dan-asinkron)
-12. [Berbagai Masalah pada Komunikasi Antar Proses](#12-berbagai-masalah-pada-komunikasi-antar-proses)
-13. [Protokol Komunikasi](#13-protokol-komunikasi)
-14. [Konsep Sinkronisasi](#14-konsep-sinkronisasi)
-15. [Logical Clock](#15-logical-clock)
-16. [Koordinasi Proses](#16-koordinasi-proses)
-17. [Tantangan dan Solusi](#17-tantangan-dan-solusi-terkait-proses-pada-sistem-terdistribusi)
-18. [Current Issues](#18-current-issues)
-19. [Diskusi](#19-diskusi)
-20. [Rangkuman](#rangkuman)
-21. [Referensi](#referensi)
-
----
-
 ## 1. Apa Itu Proses?
 
 **Program** adalah kumpulan instruksi yang tersimpan di disk. Ketika program dijalankan, sistem operasi membuat **proses**, yaitu *instance* program yang sedang dieksekusi dan dimuat ke RAM.
